@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @spidercatfly
+- 👋 Hi, I’m @spidercatfly she/her
 - 👀 I’m interested in Graph Theory, Graph Machine Learning, Matrix Optimization
 - ⚡ Fun fact: INTJ-T
 
