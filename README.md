@@ -1,5 +1,5 @@
 - Hi there :)
-- I’m interested in Matrix Optimization, Wavelet Analysis, Graph Theory, and Graph Machine Learning.
+- I’m interested in Matrix Optimization, Graph Signal Processing, and Graph Machine Learning.
 - I still remian my love in Management Science and Engineering, particularly in stochastic process mathematical models and algorithms. ***The mathematical nature of problems never ceases to intrigue and excite me.***
 - Fun fact: INTJ-T
 <!---
